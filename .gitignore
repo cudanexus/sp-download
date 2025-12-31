@@ -1,0 +1,8 @@
+*.sqlite3
+*.db
+downloads/
+downloaded_music/
+*.log
+*.csv
+__pycache__/
+.DS_Store
