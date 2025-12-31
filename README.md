@@ -6,8 +6,7 @@ This is a simple tool to download high-quality songs locally using metadata from
 1. **Python 3**: You need Python installed on your computer.
    - [Download Python Here](https://www.python.org/downloads/) (Make sure to check "Add Python to PATH" during installation).
 2. **Spotify Database**: You need the `.sqlite3` database file from Anna's Archive.
-   - **Link**: [Anna's Archive]([https://annas-archive.org](https://annas-archive.org/dyn/small_file/torrents/other_aa/aa_misc_data/annas_archive_spotify_2025_07_metadata.torrent))
-   - **Search Term**: Search for `Anna's Archive Spotify 2025 Metadata` (Look for `spotify_clean.sqlite3.zst`). Which will be around 36gb select that and unselect everything else
+   - **Link**: [Anna's Archive](https://annas-archive.org/dyn/small_file/torrents/other_aa/aa_misc_data/annas_archive_spotify_2025_07_metadata.torrent)   - **Search Term**: Search for `Anna's Archive Spotify 2025 Metadata` (Look for `spotify_clean.sqlite3.zst`). Which will be around 36gb select that and unselect everything else
    - **Download**: It is usually a large download (Torrent). You will need the `.sqlite3` file from inside the archive.
 
 ## 🚀 How to Run
